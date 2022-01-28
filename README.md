@@ -8,3 +8,4 @@ follow Chrome Extension Developer guide to [Load an unpacked extension](https://
 
 # Tab the action to help you book
 
+[![auto book ICBC road test](http://i3.ytimg.com/vi/NVhVHwq3AJ0/hqdefault.jpg)](https://www.youtube.com/watch?v=NVhVHwq3AJ0)
