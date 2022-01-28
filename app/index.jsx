@@ -269,10 +269,10 @@ const AutoBook = () => {
         if (!found) {
           reviewButton().click();
           found = true;
+          // play go go go ale ale......
+          completedSong.play()
         }
 
-        // play go go go ale ale......
-        completedSong.play()
 
         clearInterval(searchTimer);
 

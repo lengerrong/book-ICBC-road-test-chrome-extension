@@ -301,11 +301,11 @@ const AutoBook = () => {
 
         if (!found) {
           reviewButton().click();
-          found = true;
-        } // play go go go ale ale......
+          found = true; // play go go go ale ale......
 
+          completedSong.play();
+        }
 
-        completedSong.play();
         clearInterval(searchTimer);
 
         const onCancelBook = () => {
